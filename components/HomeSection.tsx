@@ -30,7 +30,7 @@ const HomeSection = () => {
 
                 <div className="relative w-[300px] h-[300px] md:w-[500px] md:h-[500px]">
                     <Image
-                        src="/MandeepImage.png" // Replace with your image path
+                        src="MandeepImage.png" // Replace with your image path
                         alt="Mandeep Singh"
                         width={600}
                         height={600}
